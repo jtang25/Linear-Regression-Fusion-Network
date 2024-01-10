@@ -10,4 +10,6 @@ Developed a stock price forecaster using dual linear regression models to predic
 - Sci-kit Learn
 - Pandas
 
+## Example
+Here is the model run on the ticker $SOXL, where linear regression 1 is modelling the short term movement of 100 trading days and linear regression 2 is modelling the past 400 days before.
 ![stock price gif](animation.gif)
